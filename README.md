@@ -1,4 +1,4 @@
-# Prediction-Price-of-California-Wine
+# Price Prediction of California Wine
 This project focuses on identifying the demand and fluctuation of prices of Californian wines by setting benchmarks and measuring the outcomes based on past trends. 
 To support our findings, we will use the wine dataset to analyze and predict the increase/decrease in prices.
 
